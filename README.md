@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Ce dépôt a été archivé, la suite des développements c'est [ici](https://github.com/datactivist/opendatactivist)
+
 A website to learn data and open data, based on Next.js.
 
 ## To clone and run on your local setup :
